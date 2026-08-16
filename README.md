@@ -4,7 +4,6 @@ Aspiring Data Analyst/Scientist building skills in Python, Pandas, and ML.
 🔭 Currently: working through IBM professional certification data science roadmap
 🌱 Learning: NumPy, Pandas, statistical analysis
 📌 Featured Projects: Coming Soon ...
-🤔 I’m looking for help with building my portfolio
 
 📫 Reach me: 
 LinkedIn| https://www.linkedin.com/in/saeedhsayed
