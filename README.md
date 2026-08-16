@@ -5,7 +5,7 @@ Aspiring Data Analyst/Scientist building skills in Python, Pandas, and ML.
 🌱 Learning: NumPy, Pandas, statistical analysis | 
 📌 Featured Projects: Coming Soon ... 
 
-📫 Reach me:/n
+📫 Reach me:
 LinkedIn| https://www.linkedin.com/in/saeedhsayed | 
 Email| official.saeedsayed@gmail.com
 
